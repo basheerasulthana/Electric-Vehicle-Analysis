@@ -21,12 +21,12 @@ The dashboard provides insights into:
 - Trend analysis charts
 - State-wise comparison
 
-## 📷 Dashboard Preview
-(Insert screenshots here)
+
+## 📊 Dashboard Preview
+![Dashboard](Screenshot 2026-01-09 212313.png)
 
 ## 📂 Files Included
-- electric_vehicle.pbix (Power BI file)
-- Dataset (if permitted)
+- electric_vehicle.pbix 
 
 ---
 
